@@ -1,0 +1,6 @@
+name: Lightning_on_death
+version: '1.0-SNAPSHOT'
+main: lightning_on_death.lightning_on_death.Lightning_on_death
+api-version: 1.19
+authors: [ Recho1235 ]
+description: strikes lightning down on player position once they die
